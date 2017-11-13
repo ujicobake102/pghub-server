@@ -1,24 +1,21 @@
-# README
+# Pghub-server
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is simple rails server for using Pghub gems
 
-Things you may want to cover:
+If you want to deploy to heroku server, push the following button.
 
-* Ruby version
+### All Pghub gems (lgtm, issue\_title, auto\_assign)
 
-* System dependencies
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-* Configuration
+### Pghub-lgtm
 
-* Database creation
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/playground-live/pghub-server/tree/lgtm)
 
-* Database initialization
+### Pghub-issue_title
 
-* How to run the test suite
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/playground-live/pghub-server/tree/issue_title)
 
-* Services (job queues, cache servers, search engines, etc.)
+### Pghub-auto_assign
 
-* Deployment instructions
-
-* ...
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/playground-live/pghub-server/tree/auto_assign)

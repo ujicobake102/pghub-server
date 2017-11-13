@@ -1,0 +1,23 @@
+{
+  "name": "Pghub-server",
+  "description": "This is simple rails server for using Pghub gems",
+  "keywords": [
+    "rails",
+    "playground",
+    "Pghub",
+    "Github",
+    "gem"
+  ],
+  "repository": "https://github.com/playground-live/pghub-server",
+  "logo": "pg-logo.png",
+  "env": {
+    "GITHUB_ORGANIZATION": {
+      "description": "Github organization",
+      "value": "Your Github organization name"
+    },
+    "GITHUB_ACCESS_TOKEN": {
+      "description": "Github access token",
+      "value": "Your Github access token"
+    }
+  }
+}
