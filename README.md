@@ -6,7 +6,7 @@ If you want to deploy to heroku server, push the following button.
 
 ### All Pghub gems (lgtm, issue\_title, auto\_assign)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/playground-live/pghub-server)
 
 ### Pghub-lgtm
 
