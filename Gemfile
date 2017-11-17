@@ -15,9 +15,7 @@ gem 'jbuilder', '~> 2.5'
 gem 'dotenv-rails'
 
 # Pghub
-gem 'pghub-lgtm', '~> 1.1'
-gem 'pghub-issue_title', '~> 1.1'
-gem 'pghub-auto_assign', '~> 1.0'
+gem 'pghub-auto_assign', '=> 1.0'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
