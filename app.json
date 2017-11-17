@@ -27,6 +27,7 @@
     },
     "NUM_OF_REVIEWERS_PER_TEAM": {
       "description": "Input number of reviewers per team. Emtpy: do nothing",
+<<<<<<< HEAD
       "value": "myteam:1 myteam2:2 myteam3:2",
       "required": false
 =======
@@ -36,6 +37,9 @@
       "description": "Input number of reviewers per team. Emtpy: do nothing",
       "value": "ex) 'myteam 1, myteam2 2, myteam3 2"
 >>>>>>> modify app.json
+=======
+      "value": "myteam:1 myteam2:2 myteam3:2"
+>>>>>>> modify typo
     }
   }
 }
