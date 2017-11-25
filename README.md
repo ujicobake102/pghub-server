@@ -1,6 +1,6 @@
 # Pghub-server
 
-This is simple rails server for using Pghub gems
+This is a simple rails server for using Pghub gems.
 
 If you want to deploy to heroku server, push the following button.
 
