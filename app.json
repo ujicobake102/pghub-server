@@ -9,7 +9,7 @@
     "gem"
   ],
   "repository": "https://github.com/playground-live/pghub-server",
-  "logo": "https://github.com/playground-live/pghub-server/blob/master/pg-logo.png",
+  "logo": "hhttps://github.com/playground-live/pghub-server/blob/master/pg-logo.png?raw=true",
   "env": {
     "GITHUB_ORGANIZATION": {
       "description": "Github organization",
