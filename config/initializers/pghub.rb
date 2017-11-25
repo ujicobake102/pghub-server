@@ -1,6 +1,6 @@
 Pghub.configure do |config|
-  config.github_organization = ENV["GITHUB_ORGANIZATION"]
-  config.github_access_token = ENV["GITHUB_ACCESS_TOKEN"]
+  config.github_organization = ENV['GITHUB_ORGANIZATION']
+  config.github_access_token = ENV['GITHUB_ACCESS_TOKEN']
 
   if ENV['NUM_OF_ASSIGNEES_PER_TEAM']
     num_of_reviewers_per_team = {}
