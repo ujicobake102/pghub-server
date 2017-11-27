@@ -3,7 +3,7 @@ Pghub.configure do |config|
   config.github_access_token = ENV['GITHUB_ACCESS_TOKEN']
 
   if ENV['NUM_OF_ASSIGNEES_PER_TEAM']
-    num_of_reviewers_per_team = {}
+    num_of_assignees_per_team = {}
 
     ENV['NUM_OF_ASSIGNEES_PER_TEAM'].split(' ').each do |assignees|
       data = assignees.split(':')
