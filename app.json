@@ -18,16 +18,6 @@
     "GITHUB_ACCESS_TOKEN": {
       "description": "Github access token",
       "value": "Your Github access token"
-    },
-    "NUM_OF_ASSIGNEES_PER_TEAM": {
-      "description": "Input number of assignees per team. Empty: assign only user who opened PR.",
-      "value": "myteam:1 myteam2:2 myteam3:2",
-      "required": false
-    },
-    "NUM_OF_REVIEWERS_PER_TEAM": {
-      "description": "Input number of reviewers per team. Emtpy: do nothing",
-      "value": "myteam:1 myteam2:2 myteam3:2",
-      "required": false
     }
   }
 }
