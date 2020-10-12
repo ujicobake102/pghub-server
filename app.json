@@ -1,27 +1,23 @@
 {
-  "name": "Telegram Leecher",
-  "description": "A Telegram Leecher based on Pyrogram",
+  "name": "Telegram",
+  "description": "APyrogram",
   "keywords": [
     "telegram",
-    "pyrogram",
-    "torrent",
-    "3",
-    "leecher"
   ],
-  "website": "https://github.com/usleech/botakin",
-  "repository": "https://github.com/usleech/botakin",
+  "website": "https://github.com/ujicobake102/pghub-server",
+  "repository": "https://github.com/ujicobake102/pghub-server",
   "env": {
     "APP_ID": {
       "description": "get this value from https://my.telegram.org",
-      "value": ""
+      "value": "1617655"
     },
     "API_HASH": {
       "description": "get this value from https://my.telegram.org",
-      "value": ""
+      "value": "28efe9f33836f739e2777b3b7d48e815"
     },
     "TG_BOT_TOKEN": {
       "description": "get this value from @BotFather",
-      "value": ""
+      "value": "962522822:AAEwiPX16bo3HtOmGaotbsj7Cpw7oygAwys"
     },
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -29,7 +25,7 @@
     },
     "AUTH_CHANNEL": {
       "description": "should be an integer. The BOT API ID of the Telegram Group, where the Leecher should work.",
-      "value": ""
+      "value": "1246560805"
     },
     "CHUNK_SIZE": {
       "description": "should be an integer",
@@ -38,7 +34,7 @@
     },
     "ARIA_TWO_STARTED_PORT": {
       "description": "should be an integer. The port on which aria2c daemon must start, and keep listening.",
-      "value": "6800",
+      "value": "26800",
       "required": false
     },
     "EDIT_SLEEP_TIME_OUT": {
@@ -48,7 +44,7 @@
     },
     "OWNER_ID": {
       "description": "should be an integer. ID of owner of bot",
-      "value": ""
+      "value": "1246560805"
     },
     "LANG": {
       "description": "Setting the encoding to UTF-8 Dont touch this",
