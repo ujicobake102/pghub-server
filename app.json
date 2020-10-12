@@ -51,6 +51,7 @@
       "value": "C.UTF-8"
     }
   },
+  "stack": "heroku-18",
   "formation": {
     "worker": {
       "quantity": 1,
